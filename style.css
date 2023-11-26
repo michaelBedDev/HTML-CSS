@@ -1,0 +1,29 @@
+
+html{
+width: 100%;
+height: 100%;
+}
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #e1e1e1;
+    color: blueviolet;
+}
+header{
+
+}
+main{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+footer{
+
+}
+main>img{
+    display: flex;
+    align-self: end;
+}
+input{
+    background-color: blueviolet;
+    color: white;
+}
